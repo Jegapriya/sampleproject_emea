@@ -35,13 +35,13 @@
   
  <distributionManagement>
 	<repository>
-		<id>tata</id>
+		<id>emeaproj</id>
 		<name>Internal Releases</name>
 		<url>http://54.154.4.234:8081/repository/maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>tata</id>
+		<id>emeaproj</id>
 		<name>Internal Releases</name>
 		<url>http://54.154.4.234:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
